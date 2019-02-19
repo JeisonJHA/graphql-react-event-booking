@@ -2,5 +2,8 @@
     "editor.tabSize": 2,
     "editor.wordBasedSuggestions": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "bottom"
 }
